@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Ravi", "email": "ravi@gmail.com", "phone": "9876543210" },
+  { "id": 2, "name": "Sita", "email": "sita@gmail.com", "phone": "9123456780" },
+  { "id": 3, "name": "John", "email": "john@gmail.com", "phone": "9000000001" },
+  { "id": 4, "name": "Priya", "email": "priya@gmail.com", "phone": "9888888888" },
+  { "id": 5, "name": "Rahul", "email": "rahul@gmail.com", "phone": "9777777777" }
+]
